@@ -1,6 +1,8 @@
 # Customer-Segmentation-Analysis
 Consumer insight analysis of 2,208 grocery customers, identifying which segments to target with marketing. SQL + Tableau.
 
+https://public.tableau.com/app/profile/billy.raven/viz/CustomerSegmentationWhotoMarketTo/Dashboard1?publish=yes
+
 The Question
 
 This project aimed to find out which customers a grocery retailer should focus its marketing on. This matters because the retailer can look at what their marketing budget is focused on and where the money makers are and adapt the budget to get more revenue from the same budget.
