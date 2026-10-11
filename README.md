@@ -28,4 +28,3 @@ Recommendations
 In terms of the group that spends the most (higher income, no kids), the retailer needs to keep these customers shopping at their company. To do this, they could give this group early access to products or promote more premium products that might suit them better. They should spend a larger share of their campaign budget targeting this group too.
 
 For families, if the barrier is time, the retailer should try personalised app offers or meal deals/ bundles that would free up time in both buying dinners and cooking them. 
-<img width="451" height="688" alt="image" src="https://github.com/user-attachments/assets/c6d6d99f-9546-489c-94b0-42fe4d473807" />
